@@ -1,0 +1,64 @@
+.form {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 0 20px;;
+}
+
+.form__fieldset {
+    border: 1px solid rgb(110, 109, 109);
+    padding: 20px;
+    border-radius: 5px;
+    margin: 65px 0;
+    background-color: white;
+}
+
+.form__legend {
+    background-color: rgb(72, 128, 72);
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.form__labelText {
+    width: 100%;
+    max-width: 150px;
+    margin-right: 5px;
+}
+
+
+.form__field {
+    border: 1px solid rgb(110, 109, 109);
+    padding: 10px;
+    width: 100%;
+    max-width: 250px;
+    border-radius: 5px;
+}
+
+.form__field:invalid {
+    background-color: hsl(0, 10%, 93%);
+}
+
+.form__paragraph {
+    font-size: 12px;
+}
+
+.form__button {
+    width: 50%;
+    border: none;
+    background-color: hsl(120, 28%, 39%);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    display: block;
+    margin: 0 auto;
+}
+
+.form__button:hover {
+    background-color: hsl(120, 28%, 45%);
+}
+
+.form__button:active {
+    background-color: hsl(120, 28%, 50%);
+}

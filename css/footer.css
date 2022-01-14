@@ -1,0 +1,23 @@
+.footer {
+    font-size: 15px;
+    text-align: center;
+    padding: 20px 5px;
+    background-color: white;
+    margin: 0 auto;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+.footer__link {
+    color: rgb(72, 128, 72);
+}
+
+.footer__link:hover {
+    color: hsl(120, 28%, 45%);
+}
+
+.footer__link:active {
+    color: black;
+}

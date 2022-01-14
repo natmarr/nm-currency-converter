@@ -1,0 +1,13 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    font-family: 'Montserrat', sans-serif;
+    background-image: url(https://image.freepik.com/darmowe-wektory/kolekcja-szkicow-elementow-zwiazanych-z-pieniedzmi_23-2147631755.jpg);
+}
+
