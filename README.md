@@ -22,4 +22,4 @@ Background: [Business vector created by freepik -
 2. Select currency.
 3. Click "Przelicz" button.
 
-![how-to-use-gif](https://media.giphy.com/media/uGih4kGqXXUYwQpSJf/giphy.gif)
+![how-to-use-gif](https://s10.gifyu.com/images/currency-converter.gif)
