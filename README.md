@@ -13,12 +13,12 @@ https://natmarr.github.io/nm-currency-converter/
 - ES6+ Features
 
 ## Description
-This is web page where you can convert PLN amount to EURO, USD or GBP currency. The web page is in Polish language. 
+This is web page where you can convert PLN amount to EUR, USD or GBP currency. The web page is in Polish language. 
 Background: [Business vector created by freepik -
                 www.freepik.com](https://www.freepik.com/vectors/business )
 
 ## How to use currency converter?
-1. Write PLN amount.
+1. Enter PLN amount.
 2. Select currency.
 3. Click "Przelicz" button.
 
