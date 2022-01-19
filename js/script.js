@@ -1,5 +1,5 @@
 {
-    const calculateResult = (amount, currency) => {
+    const getResult = (amount, currency) => {
         const eur = 4.6301;
         const usd = 4.0892;
         const gbp = 5.4434;
@@ -16,7 +16,7 @@
         };
     };
 
-    const resultText = (result, currency) => {
+    const changeResultText = (result, currency) => {
         const resultElement = document.querySelector(".js-result");
 
         resultElement.innerText = `${result.toFixed(2)} ${currency}`;
@@ -31,9 +31,9 @@
         const amount = amountElement.value;
         const currency = currencyElement.value;
 
-        const result = calculateResult(amount, currency);
+        const result = getResult(amount, currency);
 
-        resultText(result, currency);
+        changeResultText(result, currency);
     };
 
     const init = () => {
