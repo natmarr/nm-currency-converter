@@ -10,7 +10,7 @@ https://natmarr.github.io/nm-currency-converter/
 - CSS
 - BEM
 - JavaScript
-- ES6+ Features
+- ES6+ 
 
 ## Description
 This is web page where you can convert PLN amount to EUR, USD or GBP currency. The web page is in Polish language. 
