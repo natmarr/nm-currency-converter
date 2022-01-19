@@ -2,7 +2,7 @@
 ## Author
 Natalia Marcinowska
 
-## Link to the website
+## Link to a website
 https://natmarr.github.io/nm-currency-converter/
 
 ## Technologies used
@@ -13,8 +13,8 @@ https://natmarr.github.io/nm-currency-converter/
 - ES6+ 
 
 ## Description
-This is web page where you can convert PLN amount to EUR, USD or GBP currency. The web page is in Polish language. 
-Background: [Business vector created by freepik -
+This is a web page where you can convert PLN amount to EUR, USD or GBP currency. The web page is in Polish language. 
+Website background: [Business vector created by freepik -
                 www.freepik.com](https://www.freepik.com/vectors/business )
 
 ## How to use currency converter?
@@ -22,4 +22,4 @@ Background: [Business vector created by freepik -
 2. Select currency.
 3. Click "Przelicz" button.
 
-![how-to-use-gif](https://s10.gifyu.com/images/currency-converter.gif)
+![how-to-use-converter-gif](https://s10.gifyu.com/images/currency-converter.gif)
